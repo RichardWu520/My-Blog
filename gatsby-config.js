@@ -3,7 +3,8 @@ module.exports = {
     title: `Richard Wu's Blog`,
     author: {
       name: `Richard Wu`,
-      summary: ``,
+      summary: `\nwho loves to explore the area of Secure UX to provide the best user experience while keeping the users safe.
+      `,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
   },
