@@ -8,7 +8,7 @@ Who wants some cutty cuddly cat?
 
 ## Introducing the little boy cuddle
 
-![My Cat Cuddle](./cuddle.png)
+![My Cat Cuddle](./cuddle-cat-resize.png)
 He is  affectionate, loving and playful. He gets along with humans amazingly and love belly rubs. He has been treated for worms and fleas. Most importantly he has been litter trained. He loves eating kitten wet food and kitten dry food. 
 
 - Outgoing
