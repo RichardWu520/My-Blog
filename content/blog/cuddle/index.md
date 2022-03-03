@@ -1,20 +1,21 @@
 ---
-title: Welcome To My Cuddly Page
+title: My Cuddly Page
 date: "2021-05-20T22:40:32.169Z"
-description: Me and My Cat
+description: Me, Myself & I
 ---
 
-Who wants some cutty cuddly cat?
+<!-- Who wants some cutty cuddly cat? -->
 
 ## Introducing the little boy cuddle
-
-![My Cat Cuddle](./cuddle-cat-resize.png)
+![alt text](./cuddle-cat-resize.png "Siam Cat Cuddle")
+<!-- ![My Cat Cuddle](./cuddle-cat-resize.png) -->
 He is  affectionate, loving and playful. He gets along with humans amazingly and love belly rubs. He has been treated for worms and fleas. Most importantly he has been litter trained. He loves eating kitten wet food and kitten dry food. 
 
 - Outgoing
 - Stingy
 - Adventurous
 - Cute
+
 
 <!-- When she reached the first hills of the **Italic Mountains**, she had a last
 view back on the skyline of her hometown _Bookmarksgrove_, the headline of

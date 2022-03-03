@@ -3,7 +3,7 @@ title: Secure UX Starter
 date: "2022-03-01T22:12:03.284Z"
 description: "The Forgotten User Experience that safeguards the users"
 ---
-### What is Secure UX?
+### What is Secure UX? 
 
 > Machine learning is an evolving branch of computational algorithms that are designed to emulate human intelligence by learning from the
 > surrounding environment.The ability of machine learning algorithms to learn from current context and generalize into unseen tasks would allow 
@@ -15,10 +15,14 @@ More details on
 <!-- ![Chinese Salty Egg](./salty_egg.jpg) -->
 
 You can also write code blocks here!
-
-```py
-print("hello world")
+```js
+console.log('hello');
 ```
+```bash
+git remote remove origin 
+```
+
+
 | Number | This                                     | Year |
 | :----- | :--------------------------------------- | ---: |
 | 1      | Harry Potter and the Philosopher’s Stone | 2001 |
