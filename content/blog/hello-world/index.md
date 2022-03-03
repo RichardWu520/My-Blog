@@ -23,9 +23,14 @@ Oh, and here's a great quote from this Wikipedia on
 
 You can also write code blocks here!
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
+```py
+print("hello world")
 ```
+| Number | This                                     | Year |
+| :----- | :--------------------------------------- | ---: |
+| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
+| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
+| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
 
 | Number | Title                                    | Year |
 | :----- | :--------------------------------------- | ---: |
@@ -164,7 +169,6 @@ Paragraph:
 
     Code
 
-<!-- -->
 
     Paragraph:
 
