@@ -3,7 +3,7 @@ title: Ethereum Dapp in React
 date: "2022-03-01T22:12:03.284Z"
 description: "An Experimental decentralized web application for Electronic Health Records "
 ---
-### A Short Introduction To The History of Blockchain
+### The History of Blockchain
 
 The concept of **decentralized digital currency** and alternative applications like property registries have been around for decades. The anonymous
 e-cash protocols during the time of the 1980s and 1990s rely on a primitive method of (Kozłowski, 2012) cryptographic method and it conflicts
@@ -133,3 +133,20 @@ A case scenario is provided based on Doctor Registration to explain further how 
 MediChain displays the registration page built with ReactJS and HTML, and when the user submits the registration form and clicks to confirm the transaction in MetaMask wallet, the NextJS server that hosts the ReactJS front end submits the information to Geth. Geth then sends RPC requests through infura API gateway to the Ethereum Blockchain. Once the Ethereum Blockchain receives the request from MediChain, it locates the smart contract that the request is trying to access and runs the requested function **insertDoctor()** in that smart contract.  
 
 In this case, it is the doctor smart contract. On the other hand, the profile picture submitted by the doctor is uploaded to IPFS, and this step is processed by the NextJS server and gets a return unique hash identifier that MediChain submits to the Ethereum Blockchain along with other data.
+
+### Wireframes
+
+##### 1. Home Page
+![Home Page Wireframe](./Wireframe-Home.png)
+
+##### 2. About Page
+![About Page Wireframe](./Wireframe-About.png)
+
+##### 3. Get Started Page
+![GetStarted Page Wireframe](./Wireframe-Getstart.png)
+
+##### 4. Patient Registration Page
+![Patient Registration Page Wireframe](./Wireframe-Patient-Registration.png)
+
+##### 5. Patient Profile Page
+![Patient Profile Page Wireframe](./Wireframe-Patient-Profile.png)
