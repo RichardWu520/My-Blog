@@ -65,6 +65,13 @@
 }
 
 /* HTML elements */
+/* Add a black background color to the top navigation */
+.topnav {
+  overflow: hidden;
+  justify-content: center;
+}
+
+
 
 *,
 :after,
@@ -336,5 +343,11 @@ a:focus {
   ul,
   ol {
     list-style-position: inside;
+  }
+  .bio-avatar {
+    margin-right: var(--spacing-4);
+    margin-bottom: var(--spacing-0);
+    min-width: 50px;
+    border-radius: 100%;
   }
 }

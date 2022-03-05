@@ -1,7 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-const name = {name : 'Yichen Wu'}
+const name = { name: 'Yichen Wu' }
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -23,6 +23,11 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
+      {/* <div class="topnav" id="myTopnav">
+        <a href="/" class="active">Home</a>
+        <a href="#contact">Contact</a>
+        <a href="#about">About</a>
+      </div> */}
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
