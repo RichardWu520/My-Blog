@@ -6,7 +6,7 @@ module.exports = {
       summary: `\nwho loves to explore the area of Secure UX to provide the best user experience while keeping the users safe.
       `,
     },
-    description: `My blog`,
+    description: `Richard Wu's Blog | Yichen Wu's Blog`,
   },
   plugins: [
     `gatsby-plugin-image`,
